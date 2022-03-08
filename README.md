@@ -14,7 +14,7 @@
 🎓&nbsp;Pasante de la carrera de ciencias de la computación Fac. Ciencias U.N.A.M.\
 🌱 &nbsp;Interesado en todas las áreas relacionadas a ciencia de datos, ciberseguridad y desarrollo de videojuegos\
 ✍️ &nbsp;En mis tiempos libres me gusta viajar, pasar tiempo con amigos y seguir aprendiendo\
-✉️ &nbsp;Contacto alexislol201498@gmail.com\
+✉️ &nbsp;Contacto alexislol201498@gmail.com
 
 
 ### 🛠 &nbsp;Tech Stack
