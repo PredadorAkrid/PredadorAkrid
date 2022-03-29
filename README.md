@@ -9,7 +9,6 @@
 💻 &nbsp;Actualmente me dedico a desarrollo de software aprendiendo sobre temas relacionados sobre ciberseguridad y ciencia de datos\
 🎓&nbsp;Pasante de la carrera de ciencias de la computación Fac. Ciencias U.N.A.M.\
 🌱 &nbsp;Interesado en todas las áreas relacionadas a ciencia de datos, ciberseguridad y desarrollo de videojuegos\
-✍️ &nbsp;En mis tiempos libres me gusta viajar, pasar tiempo con amigos.\
 ✉️ &nbsp;Contacto alexislol201498@gmail.com
 
 
